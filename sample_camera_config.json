@@ -1,0 +1,16 @@
+{
+  "camera1": {
+    "type": "device",
+    "device_index": 0,
+    "url": "",
+    "name": "USB Camera",
+    "enabled": true
+  },
+  "camera2": {
+    "type": "device",
+    "device_index": 1,
+    "url": "",
+    "name": "Secondary Camera",
+    "enabled": true
+  }
+}
